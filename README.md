@@ -3,7 +3,7 @@
 Навчальний курс для вакансії **«Спеціаліст з розробки технічних завдань (ТЗ) для Amazon-лістингів»**.
 Побудований на [Quartz v4](https://quartz.jzhao.xyz/) (Obsidian → сайт).
 
-🔗 **Сайт курсу:** https://amzprofessional.github.io/claude-course-support/
+🔗 **Сайт курсу:** https://amzprofessional.github.io/tz-specialist-course/
 
 ## Структура
 

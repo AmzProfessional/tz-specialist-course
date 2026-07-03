@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "amzprofessional.github.io/claude-course-support",
+    baseUrl: "amzprofessional.github.io/tz-specialist-course",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
